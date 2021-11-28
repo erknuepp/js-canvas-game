@@ -1,0 +1,23 @@
+{
+  "name": "js-canvas-game",
+  "version": "1.0.0",
+  "description": "js canvas game",
+  "main": "main.js",
+  "dependencies": {
+    "sketch": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erknuepp/js-canvas-game.git"
+  },
+  "author": "edward.knueppel.jr@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erknuepp/js-canvas-game/issues"
+  },
+  "homepage": "https://github.com/erknuepp/js-canvas-game#readme"
+}

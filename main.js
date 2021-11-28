@@ -1,4 +1,4 @@
-//const sketch = require('sketch/index');
+//const sketch = require('./sketch.js');
 /*
 The Game Project
 Week 3
